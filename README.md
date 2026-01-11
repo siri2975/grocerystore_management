@@ -39,7 +39,7 @@ Before running this application, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/grocery-store-management.git
+git clone https://github.com/siri2975/grocerystore_management.git
 cd grocery-store-management
 ```
 
